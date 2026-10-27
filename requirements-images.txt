@@ -1,0 +1,2 @@
+-r requirements.txt
+deepspotm @ git+https://github.com/ratschlab/DeepSpotM.git@4d7793c890c500f51033444cc755f02b9d523628

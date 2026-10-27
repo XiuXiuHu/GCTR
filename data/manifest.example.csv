@@ -1,0 +1,4 @@
+sample_id,patient_id,split,path,image,mpp
+section_train,patient_train,train,sections/section_train,images/section_train.tif,0.5
+section_val,patient_val,val,sections/section_val,images/section_val.tif,0.5
+section_test,patient_test,test,sections/section_test,images/section_test.tif,0.5

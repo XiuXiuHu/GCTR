@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.DS_Store
+outputs/
+weights/
+data/*
+!data/manifest.example.csv
+!data/README.md
+*.pt
+*.pth
+*.safetensors

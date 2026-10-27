@@ -1,0 +1,15 @@
+GCTR: Gene-Conditioned Context Retrieval for Spatial Gene Expression Prediction
+
+The cross-attention decoder in model.py is adapted from DeepSpot-M, commit
+4d7793c890c500f51033444cc755f02b9d523628:
+https://github.com/ratschlab/DeepSpotM
+
+Required Notice: Copyright Kalin Nonchev / ETH Zurich (https://github.com/ratschlab/DeepSpotM)
+
+These decoder components are subject to the PolyForm Noncommercial License
+1.0.0. Its terms are included in licenses/DeepSpotM.txt.
+
+The optional extraction path loads upstream pretrained weights rather than
+redistributing them. DeepSpot-M weights have separate CC-BY-NC-SA-4.0 terms;
+see licenses/DeepSpotM-weights.md. Third-party packages retain their respective
+licenses. No MIT or unrestricted commercial license is granted by this notice.
